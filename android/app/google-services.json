@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1020789647153",
+    "firebase_url": "https://taskscheduler-a8d6e.firebaseio.com",
+    "project_id": "taskscheduler-a8d6e",
+    "storage_bucket": "taskscheduler-a8d6e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020789647153:android:1794a5fe0ab38e7c47b210",
+        "android_client_info": {
+          "package_name": "com.deepanshu.task_scheduler"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1020789647153-o9ipd7ffh8do8u271sde9213c21tkfne.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7O8uVPN09_1QaIO2gUUZdjuE3S-jP-H0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1020789647153-o9ipd7ffh8do8u271sde9213c21tkfne.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
