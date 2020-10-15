@@ -1,6 +1,6 @@
-# task_scheduler
+# TEAM: Tasks, Events and Meetings
 
-A new Flutter project.
+An app to keep tracks of all your important tasks
 
 ## Getting Started
 
